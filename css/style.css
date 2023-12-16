@@ -25,3 +25,7 @@ section {
 #footer {
     background-color: #4d334d;
 }
+table {
+    justify-content: center;
+    display: flex;
+}
